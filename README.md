@@ -4,11 +4,19 @@ The theme concept behind this app is the inbuilt features of smartphones that ha
 Pedometer is one such application of accelerometer feature of android device that enables the developer to develop such device based application and can server in more appropriate and accurate manner to save extra device purchase cost and give android users more benefits to switch to smartphones and reduce extra costs and efforts to get separate devices.
 Apart from accelerometer, multiple sensors in smartphones including android devices can easily be used to coin out and introduce many devices like compass, light detector, face recognizer etc. which can further broaden the usability of android devices and hence alternatively smartphones.
 The key features in this app include:-
+
  Step counter
+
  Speed detector
+
  Calorie burned
+
  Step speed counter
+
  Weight wise workout calculator
+
  Counter based on height and age.
+
  User friendly interface
+
  Features of customization
